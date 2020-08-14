@@ -1,3 +1,7 @@
+# Resource Datafiles (large files)
+movies_metadata.csv
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
